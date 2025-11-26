@@ -1,0 +1,3 @@
+Short Reflection on Hostel Maintenance Form Webpage
+
+Creating the Hostel Maintenance Form webpage helped me understand how HTML forms work and how different form elements are used to collect user information effectively. This project allowed me to practice using text inputs, dropdown menus, labels, and text areas to structure a proper maintenance reporting form. I also learned the importance of using required attributes, correct label tags, and clean formatting to ensure the form is user-friendly and functional. While working on this form, I realized how essential clear structure and organization are in building real-life forms that students or users can easily fill out.
